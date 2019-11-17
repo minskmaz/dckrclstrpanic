@@ -1,9 +1,7 @@
 # Docker Cluster Panic
 
 ---
-> Author: <a href="https://www.linkedin.com/in/jonah-c-6160aa39/" target="_blank" style="text-decoration:none; color: #F08080">Jonah Crawford</a>  
-> Email: <a href="mailto:jonah.crawford@icloud.com" style="text-decoration:none; color: #F08080">jonah@gmail.com</a>  
-> Year: 2019  
+> Author: <a href="https://www.linkedin.com/in/jonah-c-6160aa39/" target="_blank" style="text-decoration:none; color: #F08080">Jonah Crawford</a>
 ---
 
 This template is designed to enable users to quickly package a Python project. After following the set-up instructions you should be able to run CI tests and automatically generate API documentation for your code.
