@@ -1,8 +1,8 @@
-# Python Package Template
+# Docker Cluster Panic
 
 ---
-> Author: <a href="http://www.cosmostat.org/people/sfarrens" target="_blank" style="text-decoration:none; color: #F08080">Samuel Farrens</a>  
-> Email: <a href="mailto:samuel.farrens@cea.fr" style="text-decoration:none; color: #F08080">samuel.farrens@cea.fr</a>  
+> Author: <a href="https://www.linkedin.com/in/jonah-c-6160aa39/" target="_blank" style="text-decoration:none; color: #F08080">Jonah Crawford</a>  
+> Email: <a href="mailto:jonah.crawford@icloud.com" style="text-decoration:none; color: #F08080">jonah@gmail.com</a>  
 > Year: 2019  
 ---
 
