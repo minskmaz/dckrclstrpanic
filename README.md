@@ -24,7 +24,12 @@ In order to use this template please follow the instructions provided below.
 The following instructions are for the GitHub website.
 
 1. ```
-cd /dckrclstrpanic; python3 setup.py develop --user
+cd /dckrclstrpanic
+virtualenv -p python3 venv
+source venv/bin/activate
+python3 setup.py develop
+python
+>>> from dckrclstrpanic import panic
 ```
 2. Develop!
 
