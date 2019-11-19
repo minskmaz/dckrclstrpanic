@@ -31,7 +31,6 @@ import threading
 from threading import Thread
 import subprocess
 from subprocess import Popen, PIPE
-import Queue
 
 gsm = getGlobalSiteManager()
 

@@ -16,7 +16,7 @@ __email__ = 'jonah.crawford@icloud.com'
 __year__ = '2019'
 __url__ = 'https://github.com/minskmaz/dckrclstrpanic'
 __description__ = 'Roll panic tests for https://gun.eco'
-__requires__ = []  # Your package dependencies
+__requires__ = ['sh', 'zope.component']  # Your package dependencies
 
 # Default package properties
 __license__ = 'MIT'

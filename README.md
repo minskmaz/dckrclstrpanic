@@ -23,10 +23,10 @@ In order to use this template please follow the instructions provided below.
 
 The following instructions are for the GitHub website.
 
-1. Click the `Use this template` button.
-2. Specify a `Repository name` for your package. Ideally your package name should match the repository name. Note that you can change the name later if necessary.
-3. Click the `Create repository from template` button. This should create a new repository on your GitHub account.
-4. Take note of your repository URL.
+1. ```
+cd /dckrclstrpanic; python3 setup.py develop --user
+```
+2. Develop!
 
 ### Step 2: Configure the template
 
